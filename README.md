@@ -18,7 +18,11 @@ plugins {
 
 ## Images
 
-![Demo](demo-1.webm)
+![Demo](demo-2.png)
+
+![Demo](demo-3.png)
+
+![Video](demo-1.webm)
 
 ## Author
 * **Daniela Ramirez Gomez** - [danyramirezg](https://github.com/danyramirezg)
