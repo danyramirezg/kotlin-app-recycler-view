@@ -27,8 +27,5 @@
         <item name="fontFamily">cursive</item>
         <item name="android:gravity">center</item>
         <item name="android:layout_marginLeft">3dp</item>
-
     </style>
-
-
 </resources>
